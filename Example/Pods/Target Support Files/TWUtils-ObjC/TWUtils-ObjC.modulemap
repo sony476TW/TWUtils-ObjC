@@ -1,0 +1,6 @@
+framework module TWUtils_ObjC {
+  umbrella header "TWUtils-ObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}

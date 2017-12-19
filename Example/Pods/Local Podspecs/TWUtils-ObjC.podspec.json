@@ -1,0 +1,22 @@
+{
+  "name": "TWUtils-ObjC",
+  "version": "0.1.0",
+  "summary": "A short description of TWUtils-ObjC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sony476@twinny.co.kr/TWUtils-ObjC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sony476@twinny.co.kr": "sony476@twinny.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/sony476@twinny.co.kr/TWUtils-ObjC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TWUtils-ObjC/Classes/**/*"
+}
