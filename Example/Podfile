@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TWUtils-ObjC_Example' do
+  pod 'TWUtils-ObjC', :path => '../'
+
+  target 'TWUtils-ObjC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
